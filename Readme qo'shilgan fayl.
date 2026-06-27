@@ -1,0 +1,64 @@
+# 💻 Noutbuk Haqida Sayt
+
+Dasturlash va kundalik foydalanish uchun noutbuklar haqida ma'lumot beruvchi veb-sayt.
+
+🌐 **Demo:** [noutbukhaqidasayt.netlify.app](https://noutbukhaqidasayt.netlify.app/)
+
+---
+
+## 📌 Loyiha haqida
+
+Bu sayt dasturlash uchun eng mos noutbuklarni tanlashda yordam beradi. Foydalanuvchilar noutbuklar haqida ma'lumot olishlari va o'zlari uchun qulay variantni tanlashlari mumkin.
+
+---
+
+## 🚀 Xususiyatlar
+
+- 🔍 Noutbuk qidirish imkoniyati
+- 🛒 Noutbuk sotib olish bo'limi
+- 💡 Dasturlash uchun noutbuk tanlash bo'yicha maslahatlar
+- 📱 Mobil qurilmalarga moslashtirilgan dizayn
+
+---
+
+## 🛠️ Texnologiyalar
+
+- HTML5
+- CSS3
+- JavaScript
+- [Netlify](https://www.netlify.com/) — hosting
+
+---
+
+## 📂 Loyihani ishga tushirish
+
+```bash
+# Repositoriyani klonlash
+git clone https://github.com/username/noutbuk-sayt.git
+
+# Papkaga kirish
+cd noutbuk-sayt
+
+# index.html faylini brauzerda ochish
+open index.html
+```
+
+---
+
+## 📸 Ko'rinishi
+
+> Saytni ko'rish uchun: [https://noutbukhaqidasayt.netlify.app](https://noutbukhaqidasayt.netlify.app/)
+
+---
+
+## 📄 Litsenziya
+
+Bu loyiha [MIT](LICENSE) litsenziyasi ostida tarqatiladi.
+
+---
+
+## 👤 Muallif
+
+- GitHub: [@username](https://github.com/username)
+
+> **Eslatma:** `username` o'rniga o'zingizning GitHub foydalanuvchi nomingizni kiriting.
